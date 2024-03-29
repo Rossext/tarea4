@@ -1,0 +1,40 @@
+.courgette-regular {
+    font-family: "Monospace", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+.kranky-regular {
+    font-family: "Monospace", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+nav a:hover{
+    background: rgb(255, 251, 3);
+    transition: all 0.8s;
+    border-radius: 20%;
+}
+.contenido{
+    margin: 5px;
+    background-color: rgb(255, 251, 3);
+    border-radius: 5px;
+    font-size: large;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+p{
+    font-size: larger;
+    padding: 20px;
+}
+h1{
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(207, 214, 20);
+}
+.accordion-body{
+    font-size: x-large;
+}
+.modal-body{
+    font-size: x-large;
+}
+
+
